@@ -1,5 +1,4 @@
-﻿// Physics3D.cpp: 定义应用程序的入口点。
-//
+﻿
 
 #include "Physics3D.h"
 
